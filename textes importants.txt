@@ -1,0 +1,3 @@
+
+### Taux de change en temps réel :
+Pour obtenr le taux d'échange e temps réel, nous avons utiiser  la bibliothèque de python "forex-python" qui nous aidera d'interagir avec l'API de taux d'échaange d'Open Exchange Rates.

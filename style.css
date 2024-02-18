@@ -1,0 +1,9 @@
+body {
+    background-color: #e09595; /* Couleur de fond sombre */
+    color: #271a1a; /* Couleur du texte blanc */
+}
+
+.sidebar .sidebar-content {
+    background-color: #4222e3; /* Couleur de fond sombre de la barre latérale */
+    color: #b78b8b; /* Couleur du texte blanc */
+}
